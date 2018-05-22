@@ -1,0 +1,10 @@
+img {
+    width: 100vw;
+    height: 100vh;;
+}
+
+div {
+    text-align: center;
+    font-size: 3rem;
+    color: blueviolet;
+}
